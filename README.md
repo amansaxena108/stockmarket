@@ -1,4 +1,4 @@
-# stockmarket
+# STOCK MARKET DASHBOARD
 Interactive real time stock market dashboard built with Python, Streamlit, Pandas and Plotly...
 
 # 📈 Real-Time Stock Market Dashboard
